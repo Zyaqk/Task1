@@ -14,3 +14,8 @@ body {
 	height: auto;
 	width: 150px;
 	background: black;
+}
+
+img {
+	width: 100px;
+}
