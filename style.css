@@ -1,0 +1,16 @@
+body {
+	background: #161f4b;
+	color: white;
+	font-family: sans-serif;
+}
+
+.header {
+	display: center;
+	align-items: center;
+
+}
+
+.main {
+	height: auto;
+	width: 150px;
+	background: black;
